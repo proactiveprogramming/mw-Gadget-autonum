@@ -26,21 +26,21 @@
 }
 .tpl-autonum .mw-parser-output h2 .mw-headline:before {
   counter-increment: autonum-h2;
-  content: counter(autonum-h2) " ";
+  content: counter(autonum-h2) ". ";
 }
 .tpl-autonum .mw-parser-output h3 .mw-headline:before {
   counter-increment: autonum-h3;
-  content: counter(autonum-h2) "." counter(autonum-h3) " ";
+  content: counter(autonum-h2) "." counter(autonum-h3) ". ";
 }
 .tpl-autonum .mw-parser-output h4 .mw-headline:before {
   counter-increment: autonum-h4;
-  content: counter(autonum-h2) "." counter(autonum-h3) "." counter(autonum-h4) " ";
+  content: counter(autonum-h2) "." counter(autonum-h3) "." counter(autonum-h4) ". ";
 }
 .tpl-autonum .mw-parser-output h5 .mw-headline:before {
   counter-increment: autonum-h5;
-  content: counter(autonum-h2) "." counter(autonum-h3) "." counter(autonum-h4) "." counter(autonum-h5) " ";
+  content: counter(autonum-h2) "." counter(autonum-h3) "." counter(autonum-h4) "." counter(autonum-h5) ". ";
 }
 .tpl-autonum .mw-parser-output h6 .mw-headline:before {
   counter-increment: autonum-h6;
-  content: counter(autonum-h2) "." counter(autonum-h3) "." counter(autonum-h4) "." counter(autonum-h5) "." counter(autonum-h6) " ";
+  content: counter(autonum-h2) "." counter(autonum-h3) "." counter(autonum-h4) "." counter(autonum-h5) "." counter(autonum-h6) ". ";
 }
