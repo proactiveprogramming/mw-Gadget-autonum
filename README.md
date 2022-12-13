@@ -13,6 +13,6 @@ Official Url: https://www.mediawiki.org/wiki/MediaWiki:Gadget-autonum
 - Added a dot to the end of the section header number.
 
 ### Version 1.0 
-	MediaWiki Version: 1.39.x LTS
+	MediaWiki Version: 1.39.x LTS 
   
 Original version from mediawiki / wikipedia (no changes)
